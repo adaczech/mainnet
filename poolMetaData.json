@@ -2,5 +2,6 @@
   "name": "ADACZECH",
   "description": "ADA-Czech pool",
   "ticker": "CZBE1",
-  "homepage": "https://ada-czech.org"
+  "homepage": "https://ada-czech.org",
+  "extended": ""
 }
