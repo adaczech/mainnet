@@ -43,7 +43,7 @@
                 "name": "relay 1 eu",
                 "type": "relay",
                 "key": "62.171.160.224"
-            }
+            },
             "1": {
                 "name": "block producer home",
                 "type": "bp",
