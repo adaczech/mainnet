@@ -3,5 +3,5 @@
   "description": "ADA-Czech pool",
   "ticker": "CZBE1",
   "homepage": "https://ada-czech.org",
-  "extended": ""
+  "extended": "https://raw.githubusercontent.com/adaczech/mainnet/main/extended.json"
 }
